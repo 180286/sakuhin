@@ -1,12 +1,13 @@
 @charset "utf-8";
-body h1 {
-    color: rgba(208,0,38,1.00)!important;
+p{
+color:red;
+color:blue;
 }
-#Tabs1 #tabs-1 p {
-    color: rgba(241,6,6,1.00);
+
+body{
+color:red;	
 }
-.class1   {
-    color: rgba(1,22,2,1.00)!important;
-}
-#tabs-1 .class1 p {
+
+h1{
+color:red;	
 }
