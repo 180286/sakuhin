@@ -1,13 +1,44 @@
 @charset "utf-8";
-p{
-color:red;
-color:blue;
+body h1 {
+    color: #222193;
 }
-
-body{
-color:red;	
+body {
+    background-color: #add8e6;
+}.ui-tabs-anchor {
 }
-
-h1{
-color:red;	
+#ui-id-2 {
+    background-color: #FFFA8E;
+}
+#ui-id-3 {
+    background-color: #61F5A0;
+}
+#ui-id-4 {
+    background-color: #BB1F1F;
+}
+#ui-id-1 {
+    background-color: #FD0004;
+}
+.My_tab a:hover{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
+.My_tab a:link{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
+.My_tab a:visited{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
+}
+.My_tab a:active{
+	color:#000000!important;
+	}#Accordion1 {
+    min-height: 300px;
+    max-height: 500px;
 }
